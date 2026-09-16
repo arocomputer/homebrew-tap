@@ -1,5 +1,5 @@
 class EDev < Formula
-  desc "Small, extensible coding agent for your terminal"
+  desc "Coding agent you can put anywhere"
   homepage "https://e.intuitum.sh"
   version "0.0.1-dev.18.g881605343379"
   license "MIT"
