@@ -1,11 +1,8 @@
-# Intuitum Homebrew tap
+# Aro Homebrew tap
 
-Release automation in [arocomputer/e](https://github.com/arocomputer/e) maintains this tap.
-The e formula will be added by the first release with package publishing enabled.
+ulo is still in development. The previous `e` formula has been withdrawn,
+and this tap currently distributes no packages.
 
-```sh
-brew install arocomputer/tap/e
-brew upgrade arocomputer/tap/e
-```
-
-Formula versions and checksums come from the same verified binaries as the e release.
+Developers can build from [arocomputer/ulo](https://github.com/arocomputer/ulo).
+A public formula will return when the project is ready for a release.
+Removing the formula does not uninstall existing copies.
